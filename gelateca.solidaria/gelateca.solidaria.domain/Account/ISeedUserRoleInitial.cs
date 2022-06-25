@@ -1,8 +1,6 @@
-﻿namespace gelateca.solidaria.domain.Account
+﻿namespace gelateca.solidaria.domain.Account;
+public interface ISeedUserRoleInitial
 {
-    public interface ISeedUserRoleInitial
-    {
-        void SeedUsers();
-        void SeedRoles();
-    }
+    void SeedUsers();
+    void SeedRoles();
 }

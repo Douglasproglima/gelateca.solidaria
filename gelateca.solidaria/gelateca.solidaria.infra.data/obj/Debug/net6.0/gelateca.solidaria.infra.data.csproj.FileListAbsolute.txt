@@ -10,3 +10,6 @@ D:\Workspace\C#\gelateca.solidaria\gelateca.solidaria\gelateca.solidaria.infra.d
 D:\Workspace\C#\gelateca.solidaria\gelateca.solidaria\gelateca.solidaria.infra.data\obj\Debug\net6.0\refint\gelateca.solidaria.infra.data.dll
 D:\Workspace\C#\gelateca.solidaria\gelateca.solidaria\gelateca.solidaria.infra.data\obj\Debug\net6.0\gelateca.solidaria.infra.data.pdb
 D:\Workspace\C#\gelateca.solidaria\gelateca.solidaria\gelateca.solidaria.infra.data\obj\Debug\net6.0\ref\gelateca.solidaria.infra.data.dll
+D:\Workspace\C#\gelateca.solidaria\gelateca.solidaria\gelateca.solidaria.infra.data\bin\Debug\net6.0\gelateca.solidaria.domain.dll
+D:\Workspace\C#\gelateca.solidaria\gelateca.solidaria\gelateca.solidaria.infra.data\bin\Debug\net6.0\gelateca.solidaria.domain.pdb
+D:\Workspace\C#\gelateca.solidaria\gelateca.solidaria\gelateca.solidaria.infra.data\obj\Debug\net6.0\gelateca.solidaria.infra.data.csproj.CopyComplete

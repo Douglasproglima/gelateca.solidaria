@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "gelateca.solidaria.infra.ioc/1.0.0": {
+        "dependencies": {
+          "gelateca.solidaria.application": "1.0.0",
+          "gelateca.solidaria.domain": "1.0.0",
+          "gelateca.solidaria.infra.data": "1.0.0"
+        },
+        "runtime": {
+          "gelateca.solidaria.infra.ioc.dll": {}
+        }
+      },
+      "gelateca.solidaria.application/1.0.0": {
+        "dependencies": {
+          "gelateca.solidaria.domain": "1.0.0"
+        },
+        "runtime": {
+          "gelateca.solidaria.application.dll": {}
+        }
+      },
+      "gelateca.solidaria.domain/1.0.0": {
+        "runtime": {
+          "gelateca.solidaria.domain.dll": {}
+        }
+      },
+      "gelateca.solidaria.infra.data/1.0.0": {
+        "dependencies": {
+          "gelateca.solidaria.domain": "1.0.0"
+        },
+        "runtime": {
+          "gelateca.solidaria.infra.data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gelateca.solidaria.infra.ioc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "gelateca.solidaria.application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "gelateca.solidaria.domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "gelateca.solidaria.infra.data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

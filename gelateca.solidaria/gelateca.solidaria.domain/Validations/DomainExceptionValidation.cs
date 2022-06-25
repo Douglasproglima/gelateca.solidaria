@@ -1,13 +1,12 @@
-﻿namespace gelateca.solidaria.domain.Validation
-{
-    public class DomainExceptionValidation : Exception
-    {
-        public DomainExceptionValidation(string error): base(error){ }
+﻿namespace gelateca.solidaria.domain.Validation;
 
-        public static void When(bool hasError, string error)
-        { 
-            if(hasError)
-                throw new DomainExceptionValidation(error);
-        }
+public class DomainExceptionValidation : Exception
+{
+    public DomainExceptionValidation(string error): base(error){ }
+
+    public static void When(bool hasError, string error)
+    { 
+        if(hasError)
+            throw new DomainExceptionValidation(error);
     }
 }
