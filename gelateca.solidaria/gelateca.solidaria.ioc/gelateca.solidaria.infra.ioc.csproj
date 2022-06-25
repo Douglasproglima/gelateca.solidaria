@@ -7,6 +7,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+  	<PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+  	<PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="10.0.1" />
+  	<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.6" />
+  	<PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.3.1" />
+  	<PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.3.1" />
+  	<PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.3.1" />
+  </ItemGroup>
+	
+  <ItemGroup>
     <ProjectReference Include="..\gelateca.solidaria.application\gelateca.solidaria.application.csproj" />
     <ProjectReference Include="..\gelateca.solidaria.domain\gelateca.solidaria.domain.csproj" />
     <ProjectReference Include="..\gelateca.solidaria.infra.data\gelateca.solidaria.infra.data.csproj" />

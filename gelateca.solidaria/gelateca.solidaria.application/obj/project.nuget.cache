@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "PZTO4Y6dacIxitOohpMV8cCat78ElL6GAodQim3JYPUyZxLkV6evV21v49AuPQxT+yQ9GnOFZStRUX9fGggNZQ==",
+  "dgSpecHash": "4j9CAlEniNvK7YcuYEFH+/sF5ZFqMK2pe86hcSmt8XDyZZx5Og3SJqvWQ+9BnuAUVEESAEuTEpd5ZeAFv77vWA==",
   "success": true,
   "projectFilePath": "D:\\Workspace\\C#\\gelateca.solidaria\\gelateca.solidaria\\gelateca.solidaria.application\\gelateca.solidaria.application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\dougl\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\dougl\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\dougl\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\dougl\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

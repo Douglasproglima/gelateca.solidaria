@@ -11,7 +11,7 @@ build_property.RootNamespace = gelateca.solidaria.webui
 build_property.ProjectDir = D:\Workspace\C#\gelateca.solidaria\gelateca.solidaria\gelateca.solidaria.webui\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = D:\Workspace\C#\gelateca.solidaria\gelateca.solidaria\gelateca.solidaria.webui
 build_property._RazorSourceGeneratorDebug = 
 

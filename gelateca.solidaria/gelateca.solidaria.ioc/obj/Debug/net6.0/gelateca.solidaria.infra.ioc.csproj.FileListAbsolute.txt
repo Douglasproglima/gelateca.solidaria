@@ -17,3 +17,5 @@ D:\Workspace\C#\gelateca.solidaria\gelateca.solidaria\gelateca.solidaria.ioc\obj
 D:\Workspace\C#\gelateca.solidaria\gelateca.solidaria\gelateca.solidaria.ioc\obj\Debug\net6.0\refint\gelateca.solidaria.infra.ioc.dll
 D:\Workspace\C#\gelateca.solidaria\gelateca.solidaria\gelateca.solidaria.ioc\obj\Debug\net6.0\gelateca.solidaria.infra.ioc.pdb
 D:\Workspace\C#\gelateca.solidaria\gelateca.solidaria\gelateca.solidaria.ioc\obj\Debug\net6.0\ref\gelateca.solidaria.infra.ioc.dll
+D:\Workspace\C#\gelateca.solidaria\gelateca.solidaria\gelateca.solidaria.ioc\bin\Debug\net6.0\gelateca.solidaria.infra.ioc.runtimeconfig.json
+D:\Workspace\C#\gelateca.solidaria\gelateca.solidaria\gelateca.solidaria.ioc\obj\Debug\net6.0\gelateca.solidaria.infra.ioc.genruntimeconfig.cache
