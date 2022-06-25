@@ -1,0 +1,309 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Workspace\\C#\\gelateca.solidaria\\gelateca.solidaria\\gelateca.solidaria.api\\gelateca.solidaria.api.csproj": {}
+  },
+  "projects": {
+    "D:\\Workspace\\C#\\gelateca.solidaria\\gelateca.solidaria\\gelateca.solidaria.api\\gelateca.solidaria.api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workspace\\C#\\gelateca.solidaria\\gelateca.solidaria\\gelateca.solidaria.api\\gelateca.solidaria.api.csproj",
+        "projectName": "gelateca.solidaria.api",
+        "projectPath": "D:\\Workspace\\C#\\gelateca.solidaria\\gelateca.solidaria\\gelateca.solidaria.api\\gelateca.solidaria.api.csproj",
+        "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
+        "outputPath": "D:\\Workspace\\C#\\gelateca.solidaria\\gelateca.solidaria\\gelateca.solidaria.api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dougl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Workspace\\C#\\gelateca.solidaria\\gelateca.solidaria\\gelateca.solidaria.ioc\\gelateca.solidaria.infra.ioc.csproj": {
+                "projectPath": "D:\\Workspace\\C#\\gelateca.solidaria\\gelateca.solidaria\\gelateca.solidaria.ioc\\gelateca.solidaria.infra.ioc.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Workspace\\C#\\gelateca.solidaria\\gelateca.solidaria\\gelateca.solidaria.application\\gelateca.solidaria.application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workspace\\C#\\gelateca.solidaria\\gelateca.solidaria\\gelateca.solidaria.application\\gelateca.solidaria.application.csproj",
+        "projectName": "gelateca.solidaria.application",
+        "projectPath": "D:\\Workspace\\C#\\gelateca.solidaria\\gelateca.solidaria\\gelateca.solidaria.application\\gelateca.solidaria.application.csproj",
+        "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
+        "outputPath": "D:\\Workspace\\C#\\gelateca.solidaria\\gelateca.solidaria\\gelateca.solidaria.application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dougl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Workspace\\C#\\gelateca.solidaria\\gelateca.solidaria\\gelateca.solidaria.domain\\gelateca.solidaria.domain.csproj": {
+                "projectPath": "D:\\Workspace\\C#\\gelateca.solidaria\\gelateca.solidaria\\gelateca.solidaria.domain\\gelateca.solidaria.domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Workspace\\C#\\gelateca.solidaria\\gelateca.solidaria\\gelateca.solidaria.domain\\gelateca.solidaria.domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workspace\\C#\\gelateca.solidaria\\gelateca.solidaria\\gelateca.solidaria.domain\\gelateca.solidaria.domain.csproj",
+        "projectName": "gelateca.solidaria.domain",
+        "projectPath": "D:\\Workspace\\C#\\gelateca.solidaria\\gelateca.solidaria\\gelateca.solidaria.domain\\gelateca.solidaria.domain.csproj",
+        "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
+        "outputPath": "D:\\Workspace\\C#\\gelateca.solidaria\\gelateca.solidaria\\gelateca.solidaria.domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dougl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Workspace\\C#\\gelateca.solidaria\\gelateca.solidaria\\gelateca.solidaria.infra.data\\gelateca.solidaria.infra.data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workspace\\C#\\gelateca.solidaria\\gelateca.solidaria\\gelateca.solidaria.infra.data\\gelateca.solidaria.infra.data.csproj",
+        "projectName": "gelateca.solidaria.infra.data",
+        "projectPath": "D:\\Workspace\\C#\\gelateca.solidaria\\gelateca.solidaria\\gelateca.solidaria.infra.data\\gelateca.solidaria.infra.data.csproj",
+        "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
+        "outputPath": "D:\\Workspace\\C#\\gelateca.solidaria\\gelateca.solidaria\\gelateca.solidaria.infra.data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dougl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Workspace\\C#\\gelateca.solidaria\\gelateca.solidaria\\gelateca.solidaria.domain\\gelateca.solidaria.domain.csproj": {
+                "projectPath": "D:\\Workspace\\C#\\gelateca.solidaria\\gelateca.solidaria\\gelateca.solidaria.domain\\gelateca.solidaria.domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Workspace\\C#\\gelateca.solidaria\\gelateca.solidaria\\gelateca.solidaria.ioc\\gelateca.solidaria.infra.ioc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workspace\\C#\\gelateca.solidaria\\gelateca.solidaria\\gelateca.solidaria.ioc\\gelateca.solidaria.infra.ioc.csproj",
+        "projectName": "gelateca.solidaria.infra.ioc",
+        "projectPath": "D:\\Workspace\\C#\\gelateca.solidaria\\gelateca.solidaria\\gelateca.solidaria.ioc\\gelateca.solidaria.infra.ioc.csproj",
+        "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
+        "outputPath": "D:\\Workspace\\C#\\gelateca.solidaria\\gelateca.solidaria\\gelateca.solidaria.ioc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dougl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Workspace\\C#\\gelateca.solidaria\\gelateca.solidaria\\gelateca.solidaria.application\\gelateca.solidaria.application.csproj": {
+                "projectPath": "D:\\Workspace\\C#\\gelateca.solidaria\\gelateca.solidaria\\gelateca.solidaria.application\\gelateca.solidaria.application.csproj"
+              },
+              "D:\\Workspace\\C#\\gelateca.solidaria\\gelateca.solidaria\\gelateca.solidaria.domain\\gelateca.solidaria.domain.csproj": {
+                "projectPath": "D:\\Workspace\\C#\\gelateca.solidaria\\gelateca.solidaria\\gelateca.solidaria.domain\\gelateca.solidaria.domain.csproj"
+              },
+              "D:\\Workspace\\C#\\gelateca.solidaria\\gelateca.solidaria\\gelateca.solidaria.infra.data\\gelateca.solidaria.infra.data.csproj": {
+                "projectPath": "D:\\Workspace\\C#\\gelateca.solidaria\\gelateca.solidaria\\gelateca.solidaria.infra.data\\gelateca.solidaria.infra.data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

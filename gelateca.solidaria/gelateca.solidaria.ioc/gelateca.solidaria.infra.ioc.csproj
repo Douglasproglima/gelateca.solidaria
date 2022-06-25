@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\gelateca.solidaria.application\gelateca.solidaria.application.csproj" />
+    <ProjectReference Include="..\gelateca.solidaria.domain\gelateca.solidaria.domain.csproj" />
+    <ProjectReference Include="..\gelateca.solidaria.infra.data\gelateca.solidaria.infra.data.csproj" />
+  </ItemGroup>
+
+</Project>

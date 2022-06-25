@@ -1,0 +1,12 @@
+D:\Workspace\C#\gelateca.solidaria\gelateca.solidaria\gelateca.solidaria.ioc\bin\Debug\net6.0\gelateca.solidaria.ioc.deps.json
+D:\Workspace\C#\gelateca.solidaria\gelateca.solidaria\gelateca.solidaria.ioc\bin\Debug\net6.0\gelateca.solidaria.ioc.dll
+D:\Workspace\C#\gelateca.solidaria\gelateca.solidaria\gelateca.solidaria.ioc\bin\Debug\net6.0\gelateca.solidaria.ioc.pdb
+D:\Workspace\C#\gelateca.solidaria\gelateca.solidaria\gelateca.solidaria.ioc\obj\Debug\net6.0\gelateca.solidaria.ioc.csproj.AssemblyReference.cache
+D:\Workspace\C#\gelateca.solidaria\gelateca.solidaria\gelateca.solidaria.ioc\obj\Debug\net6.0\gelateca.solidaria.ioc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\gelateca.solidaria\gelateca.solidaria\gelateca.solidaria.ioc\obj\Debug\net6.0\gelateca.solidaria.ioc.AssemblyInfoInputs.cache
+D:\Workspace\C#\gelateca.solidaria\gelateca.solidaria\gelateca.solidaria.ioc\obj\Debug\net6.0\gelateca.solidaria.ioc.AssemblyInfo.cs
+D:\Workspace\C#\gelateca.solidaria\gelateca.solidaria\gelateca.solidaria.ioc\obj\Debug\net6.0\gelateca.solidaria.ioc.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\gelateca.solidaria\gelateca.solidaria\gelateca.solidaria.ioc\obj\Debug\net6.0\gelateca.solidaria.ioc.dll
+D:\Workspace\C#\gelateca.solidaria\gelateca.solidaria\gelateca.solidaria.ioc\obj\Debug\net6.0\refint\gelateca.solidaria.ioc.dll
+D:\Workspace\C#\gelateca.solidaria\gelateca.solidaria\gelateca.solidaria.ioc\obj\Debug\net6.0\gelateca.solidaria.ioc.pdb
+D:\Workspace\C#\gelateca.solidaria\gelateca.solidaria\gelateca.solidaria.ioc\obj\Debug\net6.0\ref\gelateca.solidaria.ioc.dll

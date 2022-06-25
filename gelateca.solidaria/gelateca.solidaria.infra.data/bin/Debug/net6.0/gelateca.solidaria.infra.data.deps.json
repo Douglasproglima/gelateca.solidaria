@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "gelateca.solidaria.infra.data/1.0.0": {
+        "runtime": {
+          "gelateca.solidaria.infra.data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gelateca.solidaria.infra.data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
